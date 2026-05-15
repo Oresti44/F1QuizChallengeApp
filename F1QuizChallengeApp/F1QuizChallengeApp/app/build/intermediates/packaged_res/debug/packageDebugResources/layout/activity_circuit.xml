@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/dark" android:orientation="vertical" android:padding="22dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Guess the Circuit" android:textColor="#FFFFFF" android:textSize="28sp" android:textStyle="bold" android:layout_marginTop="32dp"/>
+<TextView android:id="@+id/hintText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Shake phone for a hint." android:textColor="#CCCCCC" android:textSize="16sp" android:layout_marginTop="12dp"/>
+<TextView android:id="@+id/circuitClue" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#FFFFFF" android:textSize="20sp" android:background="@drawable/card_dark" android:layout_marginTop="28dp"/>
+<EditText android:id="@+id/answerInput" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Type circuit name" android:textColor="#FFFFFF" android:textColorHint="#AAAAAA" android:layout_marginTop="20dp"/>
+<Button android:id="@+id/checkBtn" android:layout_width="match_parent" android:layout_height="56dp" android:text="Check" android:layout_marginTop="20dp"/>
+<TextView android:id="@+id/resultText" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#FFFFFF" android:textSize="18sp" android:layout_marginTop="20dp"/>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="false" />
+    <application android:theme="@style/AppTheme" android:label="F1 Quiz Challenge" android:allowBackup="true" android:supportsRtl="true">
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".LeaderboardActivity" />
+        <activity android:name=".CircuitActivity" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

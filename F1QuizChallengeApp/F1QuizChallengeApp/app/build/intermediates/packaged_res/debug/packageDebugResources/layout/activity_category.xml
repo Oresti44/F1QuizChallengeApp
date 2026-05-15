@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/dark" android:orientation="vertical" android:padding="24dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Choose Challenge" android:textColor="#FFFFFF" android:textSize="28sp" android:textStyle="bold" android:layout_marginTop="40dp"/>
+<Button android:id="@+id/driverBtn" android:layout_width="match_parent" android:layout_height="60dp" android:text="Driver Quiz" android:layout_marginTop="32dp"/>
+<Button android:id="@+id/teamBtn" android:layout_width="match_parent" android:layout_height="60dp" android:text="Team Quiz" android:layout_marginTop="16dp"/>
+<Button android:id="@+id/circuitBtn" android:layout_width="match_parent" android:layout_height="60dp" android:text="Guess the Circuit" android:layout_marginTop="16dp"/>
+</LinearLayout>

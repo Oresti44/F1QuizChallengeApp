@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_circuit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_circuit.xml"
+    },
+    {
+        "merged": "com.example.f1quiz.app-debug-31:/layout_activity_quiz.xml.flat",
+        "source": "com.example.f1quiz.app-main-33:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\drawable_button_red.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\drawable\\button_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_leaderboard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-debug-31:\\drawable_card_dark.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\9.0.0\\com.example.f1quiz.app-main-33:\\drawable\\card_dark.xml"
+    }
+]
